@@ -1,15 +1,19 @@
 # Animal Pictures Explorer 🐾
 
-Lectures and work meetings can feel endless. For those moments when a break is needed, Animal Pictures Explorer offers a collection of adorable animal images. From playful Shiba Inus to curious cats and chirpy birds, there's a dose of cuteness for every preference. Select the number of images and enjoy a brief escape into the world of delightful animals. It's a simple way to add a touch of joy to any day!
+Welcome to Animal Pictures Explorer, where you can take a refreshing break from your busy day and explore a delightful collection of animal images. Tailor your experience by choosing your favorite animal type and selecting the quantity of images you desire (from 1 to 100).
+## Features
 
-## Live Demo 🐶🐱🐦
+- **Diverse Animal Selection:** Discover curated images of Shiba Inus, cats, and birds.
 
-[Animal Pictures Explorer](https://animal-pictures-explorer.onrender.com/)
+- **User Customization:** Pick your preferred animal and choose the number of images you want.
 
-## Setup and Installation 🛠
+## Deployment
 
-1. Clone the repo
-2. Install dependencies: `npm install`
-3. Run the Application: `node index.js`
+Hosted on [Render](https://animal-pictures-explorer.onrender.com/).
 
-## Happy Exploring!
+## Technologies Utilized
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** [Shibe.online API](https://shibe.online/)
+
+Take a break from the demands of the day and immerse yourself in the world of adorable animal pics with Animal Pictures Explorer! 🐶🐱🐦
